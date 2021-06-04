@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Travelling</string>
+
+    <string name="place_name">Taj Mahal</string>
+    <string name="country_name">India</string>
+    <string name="price">"3000"</string>
+
+    <string name="des_taj">"The Taj Mahal (/ˌtɑːdʒ məˈhɑːl, ˌtɑːʒ-/;[4] lit. 'Crown of the Palace',[taːdʒ ˈmɛːɦ(ə)l]),[5] originally the Rauza-i-munawwara is an ivory-white marble mausoleum on the southern bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan (reigned from 1628 to 1658) to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself."</string>
+
+</resources>
